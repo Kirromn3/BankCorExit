@@ -344,3 +344,4 @@ game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(94.571174621
  wait()
 game:GetService("Players").LocalPlayer.Character:PivotTo(CFrame.new(95.82115173339844, 18.565841674804688, 831.98095703125))
  wait()
+_G.FinishedBankExit = true
